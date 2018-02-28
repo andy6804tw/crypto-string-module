@@ -5,7 +5,7 @@ A module that returns alphanumeric strings.
 # npm install random-string-module --save
 
 ## HOW TO USE
-var random = require('random-string-module);
+const random = require('random-string-module');
 
 ```javascript
 ## METHOD
